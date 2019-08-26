@@ -351,7 +351,7 @@
 				CODE_SIGN_ENTITLEMENTS = hypeGuided/hypeGuided.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 38AN8KZ7HW;
-				INFOPLIST_FILE = hypeGuided/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/hypeGuided/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -370,7 +370,7 @@
 				CODE_SIGN_ENTITLEMENTS = hypeGuided/hypeGuided.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 38AN8KZ7HW;
-				INFOPLIST_FILE = hypeGuided/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/hypeGuided/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
